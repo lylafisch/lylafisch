@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @lylafisch
+- 👀 I’m interested in application security
+- 🌱 I’m currently learning the rules to a new organization
+- 💞️ I’m looking to collaborate on https://github.com/arbimediarize
+- 📫 How to reach me: please don't
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: This account might be new, but I've been coding under my true name for a decently long time.
